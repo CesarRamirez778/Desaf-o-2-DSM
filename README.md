@@ -1,2 +1,6 @@
-# Desafio-2-DSM
-Desafío 2-DSM
+# Desafio  2 DSM
+
+• ESTUDIANTES
+
+  • Cesar Ramirez RB191879
+  • Ernesto Muñoz MB192012
